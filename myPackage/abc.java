@@ -1,5 +1,5 @@
 public class abc {
     public static void main(String[] args) {
-        System.out.println("holy");
+        System.out.println("yloh");
     }
 }
